@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T22:05:40.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="z6gQXySjWpqcGEjOpfkG" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T22:06:29.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ZsMGOAKBG5rpEn_HQ-9r" version="14.6.11" type="github">
   <diagram id="8xUEwRBJT3zMY36YAMyR" name="Page-1">
     <mxGraphModel dx="1930" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
         <mxCell id="4IorFEJUq-O7zi-XYuWI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="4IorFEJUq-O7zi-XYuWI-54" target="4IorFEJUq-O7zi-XYuWI-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4IorFEJUq-O7zi-XYuWI-54" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Spedizione&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Id_spedizione&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;FK&lt;/td&gt;&lt;td&gt;data&lt;br&gt;&lt;br&gt;Id_indirizzo&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" vertex="1" parent="1">
+        <mxCell id="4IorFEJUq-O7zi-XYuWI-54" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Spedizione&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Id_spedizione&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;data&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" vertex="1" parent="1">
           <mxGeometry x="900" y="1090" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
