@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:14:35.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.11" etag="0RORlffnaXfvO9B1x-_q" type="github"><diagram id="Z9Nkfj5lRjEr3-4r_kHH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-14T14:15:55.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="N2jQ-8bozQB217N-RkGC" version="14.6.11" type="github">
+  <diagram id="Z9Nkfj5lRjEr3-4r_kHH" name="Page-1">
+    <mxGraphModel dx="3784" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kpGTL9q0qc7QIidj41oL-2" value="Lettura del diagramma E/R" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kpGTL9q0qc7QIidj41oL-3" value="&lt;font style=&quot;font-size: 40px&quot;&gt;Il guest fornisce da uno a n indirizzi&lt;br&gt;L&#39;indirizzo può essere fornito da uno e un solo guest&lt;br&gt;Un guest chiede da una a n domande&amp;nbsp;&lt;br&gt;Una domanda è chiesta da uno e un solo guest&lt;br&gt;Una domanda riceve una e una sola risposta&lt;br&gt;Una risposta riceve una e una sola domanda&lt;br&gt;Il contributor da da una a n risposte&lt;br&gt;Una risposta è data da uno e un solo contributor&lt;br&gt;Un servizio si riferisce a uno o a molti ordini&lt;br&gt;Un ordine si riferisce a uno o più servizi&lt;br&gt;Una spedizione comprende da uno a n ordini&amp;nbsp;&lt;br&gt;Un ordine è compreso in una e una sola spedizione&lt;br&gt;Una promozione è applicata a uno o molti ordini&lt;br&gt;A un ordine è applicata una e una sola promozione&lt;br&gt;Per un ordine è effettuato uno e un solo pagamento&lt;br&gt;Su un pagamento è effettuato uno e un solo ordine&lt;br&gt;Un pagamento ha da una a n modalità di pagamento&lt;br&gt;Una modalità di pagamento ha uno e un solo pagamento&lt;br&gt;Indirizzo è legato ad una o n spedizioni&lt;br&gt;Una spedizione è legata ad uno e un solo indirizzo&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="920" width="1040" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
