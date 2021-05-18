@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T14:45:37.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="i22IkQmGrZcDDRdEPaQd" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T17:11:22.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="k9XcRaa9HKIlkp77ifWR" version="14.6.11" type="github">
   <diagram id="2Lku7SXxJfx_jw641gc3" name="Page-1">
-    <mxGraphModel dx="653" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,8 +101,8 @@
         <mxCell id="aYpBokMkxp7m7ungWqd7-26" value="&lt;span style=&quot;font-size: 15px&quot;&gt;PONE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="810" width="65" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aYpBokMkxp7m7ungWqd7-28" value="&lt;span style=&quot;font-size: 15px&quot;&gt;DA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="510" width="40" height="20" as="geometry" />
+        <mxCell id="aYpBokMkxp7m7ungWqd7-28" value="&lt;span style=&quot;font-size: 15px&quot;&gt;DA&#39;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="510" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aYpBokMkxp7m7ungWqd7-29" value="&lt;span style=&quot;font-size: 15px&quot;&gt;OFFRE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1420" y="540" width="80" height="20" as="geometry" />
@@ -113,10 +113,10 @@
         <mxCell id="aYpBokMkxp7m7ungWqd7-31" value="&lt;span style=&quot;font-size: 15px&quot;&gt;COMPRENDE&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1000" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aYpBokMkxp7m7ungWqd7-32" value="&lt;span style=&quot;font-size: 15px&quot;&gt;USUFRUISCE&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aYpBokMkxp7m7ungWqd7-32" value="&lt;span style=&quot;font-size: 15px&quot;&gt;E&#39; APPLICATA&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1930" y="900" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aYpBokMkxp7m7ungWqd7-33" value="&lt;span style=&quot;font-size: 15px&quot;&gt;EFFETTUA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aYpBokMkxp7m7ungWqd7-33" value="E&#39; EFFETTUATO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1040" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aYpBokMkxp7m7ungWqd7-34" value="&lt;span style=&quot;font-size: 15px&quot;&gt;E&#39; LEGATO&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
