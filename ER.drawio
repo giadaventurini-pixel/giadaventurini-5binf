@@ -1,13 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T17:11:22.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="k9XcRaa9HKIlkp77ifWR" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T17:28:04.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="SN-sSaMP_wD-RQ7rS140" version="14.6.11" type="github">
   <diagram id="2Lku7SXxJfx_jw641gc3" name="Page-1">
-    <mxGraphModel dx="1894" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aYpBokMkxp7m7ungWqd7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERmany;endFill=0;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="aYpBokMkxp7m7ungWqd7-2" target="aYpBokMkxp7m7ungWqd7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aYpBokMkxp7m7ungWqd7-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Contributor&amp;nbsp;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Id_contributor&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nome_azienda&lt;br&gt;tipo_contributor&lt;br&gt;iban&lt;br&gt;settore&lt;br&gt;partita_iva&lt;br&gt;descrizione_attività&lt;br&gt;stato&lt;br&gt;provincia&lt;br&gt;città&lt;br&gt;indirizzo&lt;br&gt;cap&lt;br&gt;telefono&lt;br&gt;fax&lt;br&gt;indirizzo_email&lt;br&gt;password&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aYpBokMkxp7m7ungWqd7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="aYpBokMkxp7m7ungWqd7-2" target="aYpBokMkxp7m7ungWqd7-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYpBokMkxp7m7ungWqd7-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Contributor&amp;nbsp;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Id_contributor&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nome_azienda&lt;br&gt;iban&lt;br&gt;settore&lt;br&gt;partita_iva&lt;br&gt;descrizione_attività&lt;br&gt;stato&lt;br&gt;provincia&lt;br&gt;città&lt;br&gt;indirizzo&lt;br&gt;cap&lt;br&gt;telefono&lt;br&gt;fax&lt;br&gt;indirizzo_email&lt;br&gt;password&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1160" y="350" width="210" height="260" as="geometry" />
         </mxCell>
         <mxCell id="aYpBokMkxp7m7ungWqd7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERzeroToMany;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="aYpBokMkxp7m7ungWqd7-5" target="aYpBokMkxp7m7ungWqd7-6">
@@ -26,6 +33,15 @@
             <Array as="points">
               <mxPoint x="1170" y="1040" />
               <mxPoint x="1170" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYpBokMkxp7m7ungWqd7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="aYpBokMkxp7m7ungWqd7-5" target="aYpBokMkxp7m7ungWqd7-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="630" />
+              <mxPoint x="1265" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -127,6 +143,15 @@
         </mxCell>
         <mxCell id="aYpBokMkxp7m7ungWqd7-44" value="&lt;span style=&quot;font-size: 15px&quot;&gt;RIGUARDA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="770" y="440" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpBokMkxp7m7ungWqd7-55" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Fornitore&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Id_fornitore&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nome_azienda&lt;br&gt;iban&lt;br&gt;settore&lt;br&gt;partita_iva&lt;br&gt;descrizione_attività&lt;br&gt;stato&lt;br&gt;provincia&lt;br&gt;città&lt;br&gt;indirizzo&lt;br&gt;cap&lt;br&gt;telefono&lt;br&gt;fax&lt;br&gt;indirizzo_email&lt;br&gt;password&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="130" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpBokMkxp7m7ungWqd7-57" value="&lt;span style=&quot;font-size: 15px&quot;&gt;E&#39; FORNITORE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpBokMkxp7m7ungWqd7-59" value="&lt;span style=&quot;font-size: 15px&quot;&gt;PREFERISCE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="970" y="720" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
